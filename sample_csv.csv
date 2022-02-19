@@ -1,0 +1,6 @@
+id,name,sal,role
+101,'Kat',90000,'ML'
+102,'Kevin',87000,'DS'
+103, 'Justin',96000,'Python Developer'
+104,'Harry',,'Data Analyst'
+105,'',91000,
